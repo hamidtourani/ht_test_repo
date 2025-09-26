@@ -1,0 +1,8 @@
+,Name,Age,City,Salary,Date
+0,Alice,25.0,New York,60000,2023-01-15
+1,Bob,30.0,London,70000,2023-02-20
+2,Charlie,28.0,Paris,65000,2023-03-10
+3,Alice,25.0,New York,60000,2023-01-15
+4,David,22.0,London,55000,2023-04-05
+5,Eve,27.0,,75000,2023-01-15
+6,Bob,30.0,London,70000,2023-02-20
